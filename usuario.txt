@@ -1,0 +1,51 @@
+[
+  {
+    "firstName": "Daniel2",
+    "lastName": "Jose2",
+    "userName": "q",
+    "pwd": "1",
+    "cfm_pwd": "1",
+    "phone": "87654321"
+  },
+  {
+    "firstName": "daniel",
+    "lastName": "jose",
+    "userName": "danieljose",
+    "pwd": "123",
+    "cfm_pwd": "123",
+    "phone": "12345678",
+    "fg_Found": false
+  },
+  {
+    "firstName": "pperez",
+    "lastName": "Pedro",
+    "userName": "Perez",
+    "pwd": "1234",
+    "cfm_pwd": "1234",
+    "phone": "123123123"
+  },
+  {
+    "firstName": "pperez",
+    "lastName": "Pedro",
+    "userName": "Perez",
+    "pwd": "1234",
+    "cfm_pwd": "1234",
+    "phone": "123123123"
+  },
+  {
+    "firstName": "Daniela",
+    "lastName": "Denis",
+    "pwd": "123456",
+    "userName": "DaniDenis",
+    "phone": "04248487695",
+    "avatar": "Pelusa"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Denis",
+    "pwd": "10828330",
+    "userName": "DaniDeni",
+    "phone": "04248490764",
+    "avatar": "Pelusa"
+  }
+]
